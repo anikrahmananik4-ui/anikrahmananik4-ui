@@ -1,37 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sahadatur Rahman Anik</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh. Iam a full Stack Developer expert in seo and marketing</h3>
+<h1 align="center">Sahadatur Rahman Anik</h1>
+<h3 align="center">🚀 Professional Web Developer & SEO Expert</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Sahadatur+Rahman+Anik;Born+to+make+future+🚀;Founder+of+SRA+Digital+Labs;Web+Developer+%7C+SEO+Expert;Let’s+build+something+amazing!" />
+</p>---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikrahmananik4-ui&label=Profile%20views&color=0e75b6&style=flat" alt="anikrahmananik4-ui" /> </p>
+🧑‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikrahmananik4-ui" alt="anikrahmananik4-ui" /></a> </p>
+I am Sahadatur Rahman Anik, a passionate Digital Marketer and Web Developer, and the founder of SRA Digital Labs.
 
-- 🔭 I’m currently working on **Futute Project**
+I specialize in providing complete digital solutions including:
 
-- 🌱 I’m currently learning **Framework**
+- 🌐 Website Development
+- 📈 SEO Optimization
+- 📱 Social Media Marketing
+- 🎨 Graphic Design
+- 🖼️ Photo Editing
+- 🎬 Video Editing
 
-- 👯 I’m looking to collaborate on **Full Functioning Ecommarce app**
+My goal is to help individuals and businesses grow their online presence and build a strong digital identity.
 
-- 👨‍💻 All of my projects are available at [anikboss.rf.gd](anikboss.rf.gd)
+With a deep interest in technology and creativity, I continuously improve my skills to deliver high-quality and modern solutions. I believe in smart work, consistency, and creating real value for clients.
 
-- 📝 I regularly write articles on [https://sahadaturrahmananik.blogspot.com/?m=1](https://sahadaturrahmananik.blogspot.com/?m=1)
+🚀 Let’s build something amazing together.
 
-- 📫 How to reach me **Sahadaturrahman2121@gmail.com**
+---
 
-- ⚡ Fun fact **Iam The Legend in developming**
+⚡ Skills & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sahadaturanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahadaturanik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahadatur rahman anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahadatur rahman anik" height="30" width="40" /></a>
-<a href="https://fb.com/sahadatur.rahman.anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahadatur.rahman.anik" height="30" width="40" /></a>
-<a href="https://instagram.com/sahadatur_rahman_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahadatur_rahman_anik" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,wordpress,figma,photoshop,illustrator,git,github,seo" />
+</p>---
+
+🌐 Websites
+
+- 🌍 Personal: https://anikboss.rf.gd
+- 🏢 Brand: https://sradigitallabs.rf.gd
+
+---
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anikrahmananik4-ui&show_icons=true&theme=tokyonight" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikrahmananik4-ui&theme=tokyonight" />
+</p>---
+
+📬 Contact Information
+
+- 📧 Email: sahadaturrahman2121@gmail.com
+- 📱 Phone: +8801859334774
+
+---
+
+🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/share/1LD3JLiEFj/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SahadaturAnik">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/sahadatur_rahman_anik">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>---
+
+💡 Personal Motto
+
+<p align="center">
+  <b>🔥 Born to make future 🚀</b>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikrahmananik4-ui&show_icons=true&locale=en&layout=compact" alt="anikrahmananik4-ui" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikrahmananik4-ui&show_icons=true&locale=en" alt="anikrahmananik4-ui" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikrahmananik4-ui&" alt="anikrahmananik4-ui" /></p>
