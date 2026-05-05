@@ -1,35 +1,100 @@
-SAHADATUR RAHMAN ANIK
-Born to make future
-Typing SVGProfile Views
+# ⚡ SAHADATUR RAHMAN ANIK ⚡
 
-About Me
-I am Sahadatur Rahman Anik, a passionate Digital Marketer and Web Developer, and the founder of SRA Digital Labs.
+<p align="center">
+🚀 Professional Web Developer • SEO Expert • Digital Marketer  
+<br>
+🏢 Founder of SRA Digital Labs
+</p>
 
-I specialize in providing complete digital solutions including website development, social media marketing, SEO optimization, graphic design, photo editing, and video editing. My goal is to help individuals and businesses grow their online presence and build a strong digital identity.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=20&lines=SYSTEM+BOOTING...;WELCOME+TO+ANIK+UNIVERSE;WEB+DEVELOPER+%7C+SEO+EXPERT;BUILDING+THE+FUTURE+WITH+CODE;BORN+TO+MAKE+THE+FUTURE+⚡" />
+</p>
 
-With a deep interest in technology and creativity, I continuously improve my skills to deliver high-quality and modern solutions. I believe in smart work, consistency, and creating real value for clients.
+---
 
-Through SRA Digital, I aim to build a trusted brand that offers professional, reliable, and result-driven digital services.
+## 🧠 PROFILE INITIALIZATION
 
 
-Tech Stack
-HTML5CSS3JavaScriptReactNode.jsPHPWordPressMySQLGitFigmaPhotoshopPremiere Pro
+NAME : Sahadatur Rahman Anik
+USERNAME : anikrahmananik4-ui
+BRAND : SRA Digital Labs
+ROLE : Web Developer + SEO Expert
+STATUS : ACTIVE ⚡
+MISSION : Build digital future systems
 
-GitHub Stats
-GitHub StatsTop Languages
 
-GitHub Streak
+---
 
-Connect With Me
-Facebook Twitter Instagram Email
+## 👨‍💻 ABOUT SYSTEM
 
-Portfolio SRA Digital Labs
+I am **Sahadatur Rahman Anik**, a passionate **Digital Marketer & Web Developer**, and the founder of **SRA Digital Labs**.
 
-Sahadatur Rahman Anik
+I specialize in:
 
-Dhaka, Bangladesh | +880 1859-334774
+- 🌐 Website Development  
+- 📈 SEO Optimization  
+- 📱 Social Media Marketing  
+- 🎨 Graphic Design  
+- 🖼️ Photo Editing  
+- 🎬 Video Editing  
 
-sahadaturrahman2121@gmail.com
+My goal is to help individuals and businesses grow their online presence and build a strong digital identity.
 
-"Let's build something amazing together."
+I believe in **smart work, consistency, and real value creation**.
 
+🚀 Let’s build something amazing together.
+
+---
+
+## ⚙️ TECH STACK
+
+HTML • CSS • JavaScript • React • Node.js • WordPress • PHP • MongoDB • MySQL • SEO • Photoshop • Video Editing
+
+---
+
+## 🌐 DIGITAL LINKS
+
+- 🌍 Personal: https://anikboss.rf.gd  
+- 🏢 Brand: https://sradigitallabs.rf.gd  
+
+---
+
+## 📡 CONTACT
+
+EMAIL: sahadaturrahman2121@gmail.com  
+PHONE: +8801859334774  
+
+---
+
+## 🔗 SOCIAL LINKS
+
+Facebook: https://www.facebook.com/share/1LD3JLiEFj/  
+Twitter (X): https://x.com/SahadaturAnik  
+Instagram: https://www.instagram.com/sahadatur_rahman_anik  
+
+---
+
+## 📊 SYSTEM STATS
+
+Projects: 50+  
+Clients: 35+  
+Experience: 4+ Years  
+Success Rate: 100%  
+
+---
+
+## 🧬 CORE MISSION
+
++ BUILD DIGITAL SYSTEMS  
++ SCALE ONLINE BRANDS  
++ MASTER SEO GROWTH  
++ CREATE FUTURE IDENTITY  
+
+---
+
+## ⚡ FINAL MESSAGE
+
+🔥 SAHADATUR RAHMAN ANIK 🔥  
+Born to make future ⚡  
+
+“Code. Create. Dominate the digital world.”
